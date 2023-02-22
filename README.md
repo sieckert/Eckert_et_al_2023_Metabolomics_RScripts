@@ -10,4 +10,4 @@ The data behind these R scripts is publicly accessible in the Zenodo repository 
 ---
 
 **Citing the datasets deposited on Zenodo:**
->Eckert, S., Eilers, E. J., Jakobs, R., Anaia, R. A., Sen Aragam K., Bloss, T., Popp, M., Sasidharan, R., Schnitzler, J.-P., Stein, F., Steppuhn, A., Unsicker, S. B., van Dam, N. M., Yepes, S., Ziaja, D., Müller, C. (2023). Inter-laboratory comparison of plant volatile analyses in the light of intra-specific chemodiversity. *Zenodo*. DOI: []()
+>Eckert, S., Eilers, E. J., Jakobs, R., Anaia, R. A., Sen Aragam K., Bloss, T., Popp, M., Sasidharan, R., Schnitzler, J.-P., Stein, F., Steppuhn, A., Unsicker, S. B., van Dam, N. M., Yepes, S., Ziaja, D., Müller, C. (2023). Data from: Inter-laboratory comparison of plant volatile analyses in the light of intra-specific chemodiversity. *Zenodo*. DOI: []()
