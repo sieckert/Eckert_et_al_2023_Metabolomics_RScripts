@@ -1,6 +1,6 @@
 [![Repository](https://zenodo.org/badge/...)](https://zenodo.org/badge/latestdoi/...) 
 [![Zenodo](https://zenodo.org/badge/DOI/...)](https://doi.org/...)
-# R scripts from: Eckert et al. (2023)
+# R code from: Eckert et al. (2023)
 This repository contains the archived R code used to generate the results presented in the following manuscript:
 >Eckert, S., Eilers, E. J., Jakobs, R., Anaia, R. A., Sen Aragam K., Bloss, T., Popp, M., Sasidharan, R., Schnitzler, J.-P., Stein, F., Steppuhn, A., Unsicker, S. B., van Dam, N. M., Yepes, S., Ziaja, D., Müller, C. (2023). Inter‑laboratory comparison of plant volatile analyses in the light of intra‑specific chemodiversity. _Metabolomics_. DOI: [10.1007/s11306-023-02026-6](https://doi.org/10.1007/s11306-023-02026-6)
 ---
